@@ -31,7 +31,7 @@ You'll use the data from the STEDI Step Trainer and mobile app to develop a lake
 
 On the next page, you'll find instructions for accessing a temporary AWS account you can use to complete the project. This account has a budget of $25 you should be aware of when creating resources on the AWS platform. Pay special attention to what you are creating and running and the cost of these services.
 
-Project Data:
+### Project Data:
 
 1. Customer Records (from fulfillment and the STEDI website):
 
